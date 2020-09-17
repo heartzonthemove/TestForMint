@@ -1,0 +1,11 @@
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\obj\Debug\netcoreapp3.1\TestForMint.csprojAssemblyReference.cache
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\obj\Debug\netcoreapp3.1\TestForMint.AssemblyInfoInputs.cache
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\obj\Debug\netcoreapp3.1\TestForMint.AssemblyInfo.cs
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\bin\Debug\netcoreapp3.1\TestForMint.exe
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\bin\Debug\netcoreapp3.1\TestForMint.deps.json
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\bin\Debug\netcoreapp3.1\TestForMint.runtimeconfig.json
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\bin\Debug\netcoreapp3.1\TestForMint.runtimeconfig.dev.json
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\bin\Debug\netcoreapp3.1\TestForMint.dll
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\bin\Debug\netcoreapp3.1\TestForMint.pdb
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\obj\Debug\netcoreapp3.1\TestForMint.dll
+C:\Users\Taewan\source\repos\TestForMint\TestForMint\obj\Debug\netcoreapp3.1\TestForMint.pdb
